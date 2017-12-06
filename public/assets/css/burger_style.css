@@ -1,0 +1,24 @@
+
+#main{
+	margin-top: 40px;
+	
+}
+.txtbtn{
+	margin-bottom: 15px;
+}
+.names{
+	margin-bottom: 10px;
+	font-size: 130%;
+	margin-right: 30px;
+}
+h1{
+	font-family: 'Ranchers', cursive;
+	font-size: 85px;
+	color: #c94820;
+	text-align: center;
+}
+.eaten{
+	
+	color: lightgrey;
+
+}
