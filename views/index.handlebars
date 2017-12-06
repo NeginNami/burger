@@ -5,8 +5,11 @@
 <ol>
 	{{#each burgers}}
 		<li>{{name}}</li>
-		<button class="change-devoured" data-id="{{id}}" >
-		{{#if devoured}} {{else}}Devour it!!{{/if}}
+		
+		{{#if devoured}} 
+		{{else}}
+		<button class="change-devoured" data-id="{{id}}">Devour it!</button>
+		{{/if}}
 		</button>
 	{{/each}}
 </ol>
