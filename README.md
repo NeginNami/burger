@@ -23,6 +23,7 @@ Burger is a full stack application which is hosted on heroku.
 
 * [Node.js](https://nodejs.org)
 * [Javascript](https://www.javascript.com/)
+* [mysql](https://www.mysql.com/)
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 * [Bootstrap](http://getbootstrap.com/)
