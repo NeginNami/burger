@@ -4,7 +4,7 @@ Burger is an application that implements the MVC architecture and takes advantag
 
 ### Getting Started 
 
-Go to the Burger application with this URL: (...) and add burger names to the database!
+Go to the Burger application with this URL: https://damp-reef-94120.herokuapp.com/ and add burger names to the database!
 
 ## Prerequisites & Installing
 
